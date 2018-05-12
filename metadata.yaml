@@ -1,0 +1,29 @@
+_repo: Cerberus-The-Dog-of-HadesThe-History-of-an-Idea_19119
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bloomfield, Maurice
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '8482'
+    url: http://www.gutenberg.org/2009/agents/8482
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Bloomfield
+description: ''
+gutenberg_issued: '2006-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cerberus (Greek mythology)'
+- !lcc 'BL'
+title: 'Cerberus, The Dog of Hades
+
+  The History of an Idea'
+url: http://www.gutenberg.org/ebooks/19119
